@@ -6,7 +6,7 @@ Contoh dari data yang dapat dikelola oleh gis yaitu data kependudukan, data jari
 
 Data gis ada dua macam:
 
-+ Data Grafis, yaitu data yang menggambarkan bentuk atau kenampakan objek di permukaan bumi. Example tanah, gedung, dan lain-lain.
++ Data Grafis, yaitu data yang menggambarkan bentuk atau kenampakan objek di permukaan bumi. Example : tanah, gedung, dan lain-lain.
 + Data Atribut/Tabulara, yaitu data deskriptif yang menyatakan nilai dari data grafis tersebut.
 
 Pada pembahasan ini kita akan mempelajari bagaimana mengelola data tersebut hingga menjadi informasi yang dapat dikonsumsi oleh masyarakat melalui media internet.
